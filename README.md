@@ -1,9 +1,11 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : KRISHNA PRAKAASH D M
+
 Roll no : 212221230052
+
 Date of experiment :09.09.2022
 
-## Aim: 
+## AIM:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 
 8086 emulator
@@ -17,7 +19,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 2.	  Run  emu8086 icon (on the desktop or in the c:\EMU8086 folder of window) It has green color 
  
  
-3.	write the code for the appropriate program for ADDITION,SUBTRACTION, MULTIPLICATION,  DIVISION operations 
+3.		write the code for the appropriate program for ADDITION,SUBTRACTION, MULTIPLICATION,  DIVISION operations 
 
 4.	 Compile the program and check for the errors 
 5.	Run (once there is no syntax error) 
@@ -136,7 +138,7 @@ HLT;
 ![Output-4](PIC-004.PNG)
 
 ## Result :
- Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
+ 
 
 
 
