@@ -83,7 +83,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 name "ADDITION"
 org 100h
 MOV AH,06H;
-MOV BH,06H;
+MOV BH,05H;
 ADD AH,BH;
 MOV CH,AH;
 MOV AH,00H;
