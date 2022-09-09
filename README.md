@@ -138,7 +138,7 @@ HLT;
 ![Output-4](PIC-004.PNG)
 
 ## Result :
- 
+ Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
 
 
 
